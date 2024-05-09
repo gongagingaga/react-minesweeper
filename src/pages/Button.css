@@ -1,0 +1,10 @@
+.myButton {
+    background-color: transparent !important; 
+    color: inherit !important; 
+    box-shadow: none !important;
+}
+
+/*Remove focus outline */
+.myButton:focus {
+    outline: none !important;
+}
